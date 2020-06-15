@@ -1,0 +1,6 @@
+Ocena o któr¹ siê staram: 3
+-Dokument motywuj¹cy potrzebê wprowadzenia relacyjnej bazy danych w proponowanym zastosowaniu w firmie - dokumentacja.odt
+-Diagram relacji proponowanej bazy relacyjnej w postaci reprezentacji graficznej - model.png
+-Dokumentacjê danych przechowywanych w rekordach tabel z zaprojektowanego schematu w postaci ich spisu - dane.pdf
+-Skrypt SQL generuj¹cy schemat bazy zgodny z diagramem ER z punktu drugiego - skrypt.sql
+-przyk³adowe zapytania do bazy danych - zapytania.odt
